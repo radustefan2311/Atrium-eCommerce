@@ -1,7 +1,8 @@
 # Atrium eCommerce
  
  
-![pic1](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/b350c4b3-e434-4005-84a1-7cb1972ff5c5)
+![pic1](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/4e95980d-6603-4e83-b087-26ad46fcb2c4)
+
 
 
 ## Description
@@ -29,6 +30,6 @@ You will need to manually run the Spring code in your IDE.
 
 ## Gallery
 
-![pic2](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/87767b0a-881b-4556-bc64-cfaef21ba273)
+![pic2](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/3624b439-f5ca-49f9-aedf-94f16cd5009d)
 
-![pic3](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/f80d97cb-6dac-45ec-9f74-4452b85d80d4)
+![pic3](https://github.com/radustefan2311/Atrium-eCommerce/assets/81815162/d3da72f0-4b45-4692-8b26-1f07a511e239)
