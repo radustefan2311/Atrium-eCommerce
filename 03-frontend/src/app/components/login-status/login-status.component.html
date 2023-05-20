@@ -1,0 +1,21 @@
+<!--
+ * ----------------------------
+ * login-status.component.html - Atrium Ecommerce
+ * ----------------------------
+ -->
+
+<div class="login-status-header">
+
+  <div *ngIf="isAuthentificated && userFullName" class="login-status-user-info">
+    Welcome back {{ userFullName}}
+  </div>
+
+  <button *ngIf="!isAuthentificated" routerLink="/login" class="security-btn">Login</button>
+
+  <button *ngIf="isAuthentificated" (click)="logout()" class="security-btn">Logout</button>
+
+  <button *ngIf="isAuthentificated" routerLink="/members" class="security-btn ms-1">Member</button>
+
+  <button *ngIf="isAuthentificated" routerLink="/order-history" class="security-btn ms-1">Orders</button>
+
+</div>
